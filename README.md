@@ -8,5 +8,5 @@ When you sign up be sure to include that you will be using the Speech API
 
 Finally you will need to get the Subscription Key from the Profile Page.
 
-In the config.js file populate the SubscriptionKey property.
+In the config.js file populate the "Key" property.
 
